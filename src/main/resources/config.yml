@@ -1,0 +1,11 @@
+
+
+ranks:
+  terraIII:
+    coins: 150
+    exp: 150
+    tempo: 15 #Em minutos
+    permission: group.terraiii
+    command: "lp user $player group add terraii"
+    name: "&cTerra III"
+    id: 3

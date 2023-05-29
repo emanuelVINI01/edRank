@@ -1,0 +1,10 @@
+name: edRankup
+main: com.emanuelvini.edrankup.Main
+version: 1.1
+depend:
+  - Vault
+commands:
+  ranks:
+    aliases: [ranklist]
+  rankup:
+    aliases: [ranked]
